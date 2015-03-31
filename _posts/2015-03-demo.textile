@@ -1,6 +1,6 @@
 ---
 title: GitHub Rebase 3
-layout: post
+layout: default
 ---
 
 This week I've changed the graphs around quite a bit! The activity on the site just continues to increase, and surprisingly it didn't take a hit because of RubyConf. 
